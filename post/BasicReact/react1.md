@@ -1,9 +1,10 @@
+# React
 
-## React Component
+## basic
 
-###  React 定义
+### React 定义
 
-React Component 有 3 种定义方式，分别是 
+React Component 有 3 种定义方式，分别是
 
 1⃣️`React.createClass`,类似JS各种库插件的写法。
 
@@ -37,7 +38,7 @@ class App extends React.Component {
 
 ### JSX
 
-  #### 基础认识
+#### 基础认识
 
   从本质上讲，
   JSX 只是为 `React.createElement(component, props, ...children)`
@@ -63,7 +64,7 @@ React.createElement(
 注意点：React定义组件必须首字母大写！！！
 
 官方解释：
-    首字母大写的标签指示 JSX 标签是一个 React 组件。这些标签会被编译成 命名变量 的直接引用。所以如果你使用 JSX <Foo /> 表达式，那么 Foo 必须在作用域中。
+    首字母大写的标签指示 JSX 标签是一个 React 组件。这些标签会被编译成 命名变量 的直接引用。所以如果你使用 JSX `<Foo />` 表达式，那么 Foo 必须在作用域中。
 
 #### Component 嵌套
 
@@ -93,6 +94,7 @@ React.createElement(
 ```
 
 语法糖上  react可以这样写
+
 ```javascript
 class App extends React.Component {
 
@@ -164,7 +166,6 @@ const {coloums,dataSouce,className} = this.state;
 >
 ```
 
-
 #### 常用特性
 
 这是 JSX 从 ECMAScript6 借鉴过来的很有用的特性，
@@ -195,6 +196,7 @@ const attrs = {
 
 数据处理在 React 中是非常重要的概念之一
 属于父亲组件传递传递给子组件的属性
+
 ```javascript
 class Father extends React.Component {
   render(){
@@ -207,7 +209,7 @@ class Father extends React.Component {
 class Son extends React.Component {
     render(){
       const {title} = this.props;
-      return 
+      return
       （<div>
         {title}
       </div>）
@@ -237,15 +239,13 @@ App.propTypes = {
 - PropTypes.bool
 - PropTypes.func
 
-
 #### 往下传数据
 
-![](./vonder/img/NAzeMyUoPMqxfRv.png)
+![] (./vonder/img/NAzeMyUoPMqxfRv.png)
 
 #### 往上传数据
 
-![](./vonder/img/fiKKgDGuEJfSvxv.png)
-
+![] (./vonder/img/fiKKgDGuEJfSvxv.png)
 
 ### State
 
@@ -267,7 +267,7 @@ class Son extends React.Component {
 
     render(){
       const {action,face} = this.state;
-      return 
+      return
       （<div>
         {
           face
@@ -284,4 +284,6 @@ class Son extends React.Component {
 
 一张图理解 CSS Modules 的工作原理：
 
-![](./vonder/img/SWBwWTbZKqxwEPq.png)
+![] (./vonder/img/SWBwWTbZKqxwEPq.png)
+
+图片来源于 dva knowsmap

@@ -1,5 +1,8 @@
 # 目录
 
+* nginx
+  * [二级域名](/post/ECS/二级域名.md)
+
 * JavaScript基础
   * [js基础（1）](/post/JavaScript/javascript.md)
   * [call和apply](/post/JavaScript/JavaScript中call和apply的理解.md)
