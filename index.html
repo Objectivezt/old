@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="./vonder/css/docs.css">
+</head>
+
+<body>
+  <!-- <nav>
+    <a disabled="true" onclick="return false;" href="#/javascript">下期</a>
+    <a disabled="true" onclick="return false;" href="#/redux">更新</a>
+    <a href="#/README">React</a>
+  </nav> -->
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      name: '学习手册',
+      loadNavbar: './post/Setting/_navbar.md',//启用
+      coverpage: './post/Setting/_coverpage.md',//封面配置
+      homepage: './post/BasicReact/react1.md',
+      autoHeader: true,
+      loadSidebar: './post/Setting/_sidebar.md',
+      subMaxLevel: 2,
+      maxLevel: 4,
+    }
+  </script>
+  <script src="./vonder/js/docs.js"></script>
+</body>
+
+</html>
