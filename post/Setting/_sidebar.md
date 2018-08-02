@@ -25,3 +25,6 @@
 
 * JavaScript进阶
   * [Promise](Promise.md)
+
+* 其他
+  * [Hexo](/post/Study/hexo.md)
