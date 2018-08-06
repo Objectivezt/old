@@ -152,7 +152,7 @@ app.model({
 
 ### 异步请求
 
-异步请求基于 whatwg-fetch，API 详见：https://github.com/github/fetch
+异步请求基于 whatwg-fetch，API 详见： `https://github.com/github/fetch`
 
 #### GET 和 POST
 

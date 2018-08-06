@@ -22,7 +22,6 @@
         init     Create a new Hexo folder.
         version  Display version information.
 
-
 >在已经新建hexo项目下，
 
     Commands:

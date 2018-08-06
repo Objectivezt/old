@@ -5,7 +5,7 @@
 ### 安装
 
 ```bash
-    npm i eslint -D 
+    npm i eslint -D
 ```
 
 或
