@@ -23,7 +23,7 @@
   > * 网页内容和结构
 > * 所以我们应该注意页面结构的内容方面情况：比如说meta标签的优化，title和description，同时还有UTF-8，Author等
 
-##post请求和get请求的区别
+## post请求和get请求的区别
 
 1.Get是用来从服务器上获得数据，而Post是向服务器上传递数据。
 
