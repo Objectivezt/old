@@ -148,6 +148,5 @@ npm install eslint@4.19.1 eslint-plugin-import@2.12.0 eslint-plugin-jsx-a11y@6.0
 常用的
 
 ```js
-
 //eslint-disable-line
 ```
