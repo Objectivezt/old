@@ -241,11 +241,11 @@ App.propTypes = {
 
 #### 往下传数据
 
-![] (./vonder/img/NAzeMyUoPMqxfRv.png)
+![往下传数据](../../vonder/img/NAzeMyUoPMqxfRv.png)
 
 #### 往上传数据
 
-![] (./vonder/img/fiKKgDGuEJfSvxv.png)
+![往上传数据](../../vonder/img/fiKKgDGuEJfSvxv.png)
 
 ### State
 
@@ -284,6 +284,6 @@ class Son extends React.Component {
 
 一张图理解 CSS Modules 的工作原理：
 
-![] (./vonder/img/SWBwWTbZKqxwEPq.png)
+![CSS](../../vonder/img/SWBwWTbZKqxwEPq.png)
 
 图片来源于 dva knowsmap
