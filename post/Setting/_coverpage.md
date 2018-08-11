@@ -1,25 +1,5 @@
-# Objectivezt 文档
+# Objectivezt
 
-    学习笔记
+     随笔
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                                                                                  ——————  thanks docsify
+                                                                            ——————  thanks docsify
