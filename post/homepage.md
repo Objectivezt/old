@@ -43,6 +43,12 @@
 + [React学习（1）](/post/BasicReact/react1.md)
 + [redux](/post/BasicReact/redux.md)
 
+### 微信小程序开发
+
+>wepy框架
+
++ [wepy](/post/MiniProgarm/wepy.md)
+
 ### 前端工程化
 
 > webpack
@@ -52,6 +58,7 @@
 > eslint
 
 + [eslint](/post/Project/eslint.md)
+
 
 ### 前端性能
 

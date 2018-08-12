@@ -27,8 +27,11 @@
   * [兼容性](/post/other/一些兼容性问题.md)
   * [load](/post/other/关于页面加载,seo,post,get.md)
 
-* JavaScript进阶
-  * [Promise](Promise.md)
+* 小程序
+  * [wepy框架](/post/MiniProgarm/wepy.md)
+  
+<!-- * JavaScript进阶
+  * [Promise](Promise.md) -->
 
 * 其他
   * [Axure](/post/Tools/axure.md)
