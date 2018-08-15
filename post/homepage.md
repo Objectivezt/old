@@ -24,9 +24,8 @@
 
 #### JavaScript
 
-> ES5规范
+> ES3-ES5规范
 
-+ [js基础（1）](/post/JavaScript/javascript.md)
 + [call和apply](/post/JavaScript/JavaScript中call和apply的理解.md)
 + [跨域](/post/JavaScript/JavaScript跨域.md)
 + [oop](/post/JavaScript/JavaScript面向对象.md)
@@ -34,7 +33,7 @@
 
 > ES6规范
 
-+ [Promise](Promise.md)
++ [ES6](/post/JavaScript/ES6.md)
 
 ### 主流框架
 

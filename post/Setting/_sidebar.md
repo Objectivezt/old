@@ -14,7 +14,7 @@
   * [二级域名](/post/ECS/二级域名.md)
 
 * JavaScript基础
-  * [js基础（1）](/post/JavaScript/javascript.md)
+  * [ES6](/post/JavaScript/ES6.md)
   * [call和apply](/post/JavaScript/JavaScript中call和apply的理解.md)
   * [跨域](/post/JavaScript/JavaScript跨域.md)
   * [oop](/post/JavaScript/JavaScript面向对象.md)
