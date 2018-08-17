@@ -114,3 +114,48 @@ git pull  等于 git fetch + git merge FETCH_HEAD  很多资料说最好不要�
 
     1、角色划分不明显、权限控制不足
     2、学习成本高
+
+## git问题处理
+
+### 还原一个文件
+
+1. `git status`
+2. `git reset HEAD XXXX`
+3. `git checkout XXXX`
+
+XXX为目标文件
+
+>例子
+
+```bash
+MacBook-Pro:layouts Objectivezt$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+        modified:   ../../.vscode/settings.json
+        modified:   ../common/menu.js
+        modified:   ../common/router.js
+        deleted:    TabController.js
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        ../containers/Home/
+
+no changes added to commit (use "git add" and/or "git commit -a")
+MacBook-Pro:layouts Objectivezt$ git reset HEAD TabController.js
+Unstaged changes after reset:
+M       .vscode/settings.json
+M       src/common/menu.js
+M       src/common/router.js
+D       src/layouts/TabController.js
+MacBook-Pro:layouts Objectivezt$ git checkout TabController.js
+MacBook-Pro:layouts Objectivezt$ ls
+BasicLayout.js          PageHeaderLayout.js     TabController.js        UserLayout.less
+BlankLayout.js          PageHeaderLayout.less   UserLayout.js
+
+```
