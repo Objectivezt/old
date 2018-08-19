@@ -150,3 +150,13 @@ npm install eslint@4.19.1 eslint-plugin-import@2.12.0 eslint-plugin-jsx-a11y@6.0
 ```js
 //eslint-disable-line
 ```
+
+### 配置
+
+> 这里会记录自己常用的配置
+
+#### 必须使用分号结尾
+
+```js
+'semi': ['error', 'always'],
+```
