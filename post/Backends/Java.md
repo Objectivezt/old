@@ -81,3 +81,89 @@ public class HelloWorld{
 2. 静态内部类不能直接访问外部类的非静态成员，但可以通过 new 外部类().成员 的方式访问;
 3. 如果外部类的静态成员与内部类的成员名称相同，可通过“类名.静态成员”访问外部类的静态成员;
 4. 如果外部类的静态成员与内部类的成员名称不相同，则可通过“成员名”直接调用外部类的静态成员;
+
+## 常用内部类
+
+### 包装类
+
+> 基本类型数据类型有对应点包装类
+
+除了下面两个类型不是转化 首字母大写。其他都是
+
+| 基本类型 | 对应包装类 |
+| -------- | :--------: |
+| int      | Integer    |
+| char     | Character  |
+
+#### 基本类型和包装类型之间的转换
+
+##### 装箱
+
+```java
+
+    // 定义double类型变量
+double a = 91.5;
+
+    // 手动装箱
+Double b = new Integer(a)
+
+    // 自动装箱
+Double c = a
+
+```
+
+##### 拆箱
+
+```java
+Double d = new Double(87.0);
+
+// 手动拆箱
+double e = d.doubleValue();
+
+// 自动拆箱
+double f = d;
+
+```
+
+#### 基本数据类型和字符串之间的转化
+
+>常用的三种方法
+
+1. 包装类的toString方法
+2. String类的valueOf()方法
+3. 用一个空字符串加上基本数据类型
+
+```java
+double m = 88.5;
+//将基本类型转换为字符串
+String str1 = String.valueOf(m);
+
+String str = "150.20";
+// 将字符串转换为基本类型
+Double a = Double.parseDouble(str);
+```
+
+#### Date && Calendar
+
+```java
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
+import java.util.Date;
+
+public class HelloWorld {
+    public static void main(String[] args) {
+            // 创建Calendar对象
+            Calendar c = Calendar.getInstance();
+
+            // 将Calendar对象转换为Date对象
+            Date date = c.getTime();
+
+            // 创建SimpleDateFormat对象，指定目标格式
+            SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+
+            // 将日期转换为指定格式的字符串
+            String now = sdf.format(date);
+            System.out.println("当前时间：" + now);
+        }
+    }
+```
