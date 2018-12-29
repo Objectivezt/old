@@ -1,7 +1,7 @@
 # git基础操作
 
 ## 为什么要用git
-  
+
     1、与cvs、svn一样都是  常见版本控制工具
     2、安全性高，开发者本地都有一套完整版本库
     3、分布式系统管理代码方便
@@ -110,6 +110,14 @@ git pull  等于 git fetch + git merge FETCH_HEAD  很多资料说最好不要�
 
 `git push origin master`
 
+> 重置保存密码
+
+`git config --global credential.helper store`
+
+
+
+
+
 ## git的不足处
 
     1、角色划分不明显、权限控制不足
@@ -159,3 +167,6 @@ BasicLayout.js          PageHeaderLayout.js     TabController.js        UserLayo
 BlankLayout.js          PageHeaderLayout.less   UserLayout.js
 
 ```
+
+
+
