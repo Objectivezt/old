@@ -132,6 +132,27 @@ develop 为版本名
 
 `git cherry-pick a4a8f75af156ca541d7e7ab0ac685d91b3f84075`
 
+> 切换远程版本
+
+git branch -a，
+
+列出所有分支名称如下：
+`remotes/origin/dev`
+`remotes/origin/release`
+`git checkout -b dev origin/dev`，
+
+作用是 checkout 远程的 dev 分支，在本地起名为 dev 分支，并切换到本地的 dev 分支
+`git checkout -b release origin/release`，作用参见上一步解释
+
+> 恢复误删到文件
+
+例如： 误删除了根目录下的client文件夹
+
+``` bash
+    git reset HEAD
+    git checkout ./client
+```
+
 ## git 的不足处
 
     1、角色划分不明显、权限控制不足
