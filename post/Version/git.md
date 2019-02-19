@@ -134,14 +134,16 @@ develop 为版本名
 
 > 切换远程版本
 
-git branch -a，
+`git branch -a //查看所有远程分支`
 
 列出所有分支名称如下：
 `remotes/origin/dev`
 `remotes/origin/release`
+
 `git checkout -b dev origin/dev`，
 
 作用是 checkout 远程的 dev 分支，在本地起名为 dev 分支，并切换到本地的 dev 分支
+
 `git checkout -b release origin/release`，作用参见上一步解释
 
 > 恢复误删到文件
@@ -152,6 +154,12 @@ git branch -a，
     git reset HEAD
     git checkout ./client
 ```
+
+> 删除远程分支
+
+`git push origin --delete branchName`
+
+branchName - 删除目标的分支名称
 
 ## git 的不足处
 
