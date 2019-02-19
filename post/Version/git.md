@@ -161,6 +161,40 @@ develop 为版本名
 
 branchName - 删除目标的分支名称
 
+> 将一个分支提交到 两个远程仓库下。
+
+`git remote -v`查询当前分支
+
+```bash
+git remote -v
+origin  https://github.com/Jack-Rose/docs.git (fetch)
+origin  https://github.com/Jack-Rose/docs.git (push)
+```
+
+  1. 添加一个远程仓库
+
+      `git remote add github http://XXXXX.git`
+
+      ```bash
+          git remote -v
+
+          origin  https://github.com/Jack-Rose/docs.git (fetch)
+          origin  https://github.com/Jack-Rose/docs.git (push)
+          github  http://XXXXX.git (push)
+      ```
+s
+  2. 添加一个远程URL
+
+      `git remote set-url --add origin 'http://xxxxx.git'`
+
+      ```bash
+          git remote -v
+
+          origin  https://github.com/Jack-Rose/docs.git (fetch)
+          origin  https://github.com/Jack-Rose/docs.git (push)
+          origin  http://XXXXX.git (push)
+      ```
+
 ## git 的不足处
 
     1、角色划分不明显、权限控制不足
