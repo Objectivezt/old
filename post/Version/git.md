@@ -182,7 +182,6 @@ origin  https://github.com/Jack-Rose/docs.git (push)
           origin  https://github.com/Jack-Rose/docs.git (push)
           github  http://XXXXX.git (push)
       ```
-s
   2. 添加一个远程URL
 
       `git remote set-url --add origin 'http://xxxxx.git'`
@@ -195,10 +194,9 @@ s
           origin  http://XXXXX.git (push)
       ```
 
-## git 的不足处
+> 清除用户名密码
 
-    1、角色划分不明显、权限控制不足
-    2、学习成本高
+git config --system --unset credential.helper
 
 ## git 问题处理
 
