@@ -196,7 +196,11 @@ origin  https://github.com/Jack-Rose/docs.git (push)
 
 > 清除用户名密码
 
-git config --system --unset credential.helper
+`git config --system --unset credential.helper`
+
+> 撤销一次commit但是不还原文件
+
+`git reset --soft HEAD^`
 
 ## git 问题处理
 
