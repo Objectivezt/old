@@ -14,6 +14,30 @@
 
 2.构造集合思路。
 
+```javascript
+/**
+ * @param {number[]} nums
+ * @param {number} target
+ * @return {number[]}
+ */
+var twoSum = function(nums, target) {  
+
+    var mapObj = {};
+    var res = [];
+    nums.forEach((e, i) => mapObj[e] = i);
+
+    for(var i=0;i<nums.length;i++) {
+        var j = mapObj[target - nums[i]];
+        if(j && j !== i) {
+            res = [i, j];
+            break;
+        }
+    }
+
+    return res;
+};
+```
+
 ## Review
 
 [Why Every Developer Should Become a Power User of Google Chrome](http://blog.thefirehoseproject.com/posts/every-developer-become-power-user-google-chrome/)
