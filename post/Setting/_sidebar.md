@@ -1,5 +1,9 @@
 # 目录
 
+* 计算机基础
+  * 算法与数据结构
+    * [数组与链表](/post/DataStructure/ArrayLinkedList.md)
+
 * 前端开发
   * JavaScript基础
     * [ES6](/post/JavaScript/ES6.md)

@@ -2,6 +2,12 @@
 
 <!-- ## 前沿技术 -->
 
+## 基础
+
+### 算法与数据结构
+
++ [数组与链表](/post/DataStructure/ArrayLinkedList.md)
+
 ## ARTS
 
 + [第一周](/post/ARTS/week1.md)
@@ -119,6 +125,10 @@
 + [Hexo](/post/Study/hexo.md)
 
 ## 常用网站
+
+<!-- ### 算法题
+
+> LeetCode -->
 
 ### 开源社区
 
