@@ -38,6 +38,7 @@
 * ARTS
   * 第一周
     * [第一周](/post/ARTS/week1.md)
+    * [第二周](/post/ARTS/week2.md)
   
 * 工具
   * 版本控制
@@ -51,4 +52,3 @@
 * 其他
   * [Hexo](/post/Study/hexo.md)
   * [github](/post/Tools/github.md)
-

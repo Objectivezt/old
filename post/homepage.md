@@ -11,7 +11,8 @@
 ## ARTS
 
 + [第一周](/post/ARTS/week1.md)
-
++ [第二周](/post/ARTS/week2.md)
+  
 ## 前端开发
 
 ### 微前端
@@ -42,7 +43,7 @@
 
 ### 微信小程序开发
 
->wepy框架
+> wepy框架
 
 + [wepy](/post/MiniProgarm/wepy.md)
 
