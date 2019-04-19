@@ -202,6 +202,10 @@ origin  https://github.com/Jack-Rose/docs.git (push)
 
 `git reset --soft HEAD^`
 
+> 恢复指定文件到某次提交版本
+
+`git checkout [hash] [filename]`
+
 ## git 问题处理
 
 ### Mac 下卸载了 xcode 不能使用git的情况解决方案：
@@ -215,7 +219,6 @@ sudo xcode-select --switch /Library/Developer/CommandLineTools
 
 xcode-select -p
 ```
-
 
 ### 还原一个文件
 
