@@ -12,6 +12,7 @@
 
 + [第一周](/post/ARTS/week1.md)
 + [第二周](/post/ARTS/week2.md)
++ [第三周](/post/ARTS/week3.md)
   
 ## 前端开发
 
@@ -136,3 +137,9 @@
 > github
 
 + [github](/post/Tools/github.md)
+
+## IDE
+
+### vscode
+
++ [vscode-snippets](/post/IDE/vscode/code-snippets.md)
