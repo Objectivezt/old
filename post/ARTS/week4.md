@@ -40,7 +40,7 @@ var rangeSumBST = function(root, L, R) {
 
 [How to Learn Web Development the Smart Way](http://blog.thefirehoseproject.com/posts/nodejs-vs-rails/)
 
-感悟： 这是一篇4年前的文章，文中javascript框架 BackboneJS，AngularJS已经逐渐不那么流行。但大的方向上
+感悟： 这是一篇4年前的文章，文中javascript框架 BackboneJS，AngularJS已经逐渐不那么流行，很多技术趋势也是再今天得到验证。
 
 ## Tip
 
