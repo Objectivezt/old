@@ -40,6 +40,7 @@
     * [第一周](/post/ARTS/week1.md)
     * [第二周](/post/ARTS/week2.md)
     * [第三周](/post/ARTS/week3.md)
+    * [第四周](/post/ARTS/week4.md)
   
 * 工具
   * 版本控制
