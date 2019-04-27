@@ -46,7 +46,7 @@
   * 版本控制
     * [git](/post/Version/git.md)
   * nginx
-    * [二级域名](/post/ECS/二级域名.md)
+    * [二级域名](/post/ECS/secondaryDomain.md)
 
 * 产品设计
   * [Axure](/post/Tools/axure.md)

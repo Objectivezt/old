@@ -1,10 +1,8 @@
-# 左耳听风 第一周
+# 左耳听风 第四周
 
 > 每周完成一个ARTS： 每周至少做一个 leetcode 的算法题、阅读并点评至少一篇英文技术文章、学习至少一个技术技巧、分享一篇有观点和思考的技术文章。（也就是 Algorithm、Review、Tip、Share 简称ARTS）
 
 ## Algorithm
-
- 第一次在leetCode刷题目，从简单的开始。
 
 [二叉搜索树的范围和](https://leetcode-cn.com/problems/range-sum-of-bst)
 
@@ -50,4 +48,4 @@ var rangeSumBST = function(root, L, R) {
 
 ## Share
 
-[二级域名配置]([http://](http://objectivezt.com/#/post/ECS/二级域名))
+[二级域名配置]([http://](http://objectivezt.com/#/post/ECS/secondaryDomain)

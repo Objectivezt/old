@@ -91,7 +91,7 @@
 
 > nginx
 
-+ [二级域名](/post/ECS/二级域名.md)
++ [二级域名](/post/ECS/secondaryDomain.md)
 
 ### 版本控制软件
 
