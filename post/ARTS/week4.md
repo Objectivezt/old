@@ -48,4 +48,4 @@ var rangeSumBST = function(root, L, R) {
 
 ## Share
 
-[二级域名配置]([http://](http://objectivezt.com/#/post/ECS/secondaryDomain)
+[二级域名配置](http://objectivezt.com/#/post/ECS/secondaryDomain)
