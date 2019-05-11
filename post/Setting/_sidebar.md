@@ -42,6 +42,7 @@
     * [第三周](/post/ARTS/week3.md)
     * [第四周](/post/ARTS/week4.md)
     * [第五周](/post/ARTS/week5.md)
+    * [第六周](/post/ARTS/week6.md)
   
 * 工具
   * 版本控制
