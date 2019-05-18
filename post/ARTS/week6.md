@@ -19,19 +19,33 @@ var sortedSquares = function(A) {
 
 ## Review
 
+[data-portability-is-useless.-hardware-is-a-privilege](http://stop.zona-m.net/2019/04/data-portability-is-useless.-hardware-is-a-privilege/)
+
+感悟：数据在各个平台中交互，但是更好对方式可能是一个终端链接到自己专属云服务上
+
+
 ## Tip
 
 ### bash 常用特殊符号
 
 `~`  ⽤户家⽬录
+
 `-`  标准输⼊(/dev/stdin)
+
 `.`  当前⽬录
+
 `..` 上层⽬录
+
 `.file`  隐藏⽂件，需要通过ls -a查看
+
 `|` 管道符，⽤于联通两个命令，前⼀个的输出作为后⼀个的输⼊
+
 `&` 出现在命令末尾，代表该命令后台运⾏
+
 `$` $VAR是取变量VAR的值，不存在则为空
+
 `;` 标识⼀条命令的结束（默认是换⾏符标识命令结束）
+
 `<>`  输⼊/输出重定向
 
                                 ———————— 《鸟哥的Linux私房菜》
