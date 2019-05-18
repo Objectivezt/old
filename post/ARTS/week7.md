@@ -30,6 +30,10 @@ var maxDepth = function(root) {
 
 ## Review
 
+[Why You’ll Never Be Fully Ready For Your First Developer Job](http://blog.thefirehoseproject.com/posts/why-youll-never-be-ready-for-your-first-developer-job/)
+
+感悟：就如同刚入行时候，自己以为自己很厉害，其实哪些都是一种被小小成就感所蒙蔽。 现在的我们还只是井底之蛙，只是在努力冲向井口。
+
 ## Tip
 
 [create-react-app](/post/Frontends/React/create-react-app.md)
