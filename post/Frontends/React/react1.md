@@ -45,7 +45,7 @@ class App extends React.Component {
   
   官方上、社区上为 函数提供的语法糖
 
-```html
+```jsx
 <MyButton color="blue" shadowSize={2}>
   Click Me
 </MyButton>
@@ -70,7 +70,7 @@ React.createElement(
 
 类似 HTML，JSX 里可以给组件添加子组件。
 
-```html
+```jsx
 <App>
   <Header />
   <MainContent />
@@ -104,7 +104,7 @@ class App extends React.Component {
 使得：
 `class` 是保留词，所以添加样式时，需用 `className` 代替 `class` 。
 
-```html
+```jsx
 <H className="fancy">React</H>
 ```
 

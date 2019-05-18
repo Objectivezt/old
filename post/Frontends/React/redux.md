@@ -1,3 +1,5 @@
+# dva 方式使用 Redux 
+
 ## Reducer
 
 reducer 是一个函数，接受 state 和 action，返回老的或新的 state 。即：`(state, action) => state`
