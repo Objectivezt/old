@@ -17,6 +17,8 @@
 + [第五周](/post/ARTS/week5.md)
 + [第六周](/post/ARTS/week6.md)
 + [第七周](/post/ARTS/week7.md)
++ [第八周](/post/ARTS/week8.md)
++ [第九周](/post/ARTS/week9.md)
 
 ## 前端开发
 
