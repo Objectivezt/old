@@ -29,6 +29,8 @@
     * [html5新标签](/post/Frontends/other/HTML5 个人接触到的新增页面元素.md)
     * [兼容性](/post/Frontends/other/一些兼容性问题.md)
     * [load](/post/Frontends/other/关于页面加载,seo,post,get.md)
+  * TypeScript
+    * [TypeScript构建React简单应用](/post/Frontends/TypeScript/TypeScript-React-Starter.md)
   
 * 后端开发
   * java
@@ -47,6 +49,8 @@
     * [第七周](/post/ARTS/week7.md)
     * [第八周](/post/ARTS/week8.md)
     * [第九周](/post/ARTS/week9.md)
+    * [第十周](/post/ARTS/week10.md)
+    * [第十一周](/post/ARTS/week11.md)
   
 * 工具
   * 版本控制
