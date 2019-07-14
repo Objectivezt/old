@@ -262,3 +262,9 @@ BasicLayout.js          PageHeaderLayout.js     TabController.js        UserLayo
 BlankLayout.js          PageHeaderLayout.less   UserLayout.js
 
 ```
+
+#### 还原到指定版本
+
+```bash
+    git reset --hard commit ID
+```
