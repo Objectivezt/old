@@ -118,3 +118,7 @@ const path = requrie('path');
 
 path.resolve( __diranme,'')
 ```
+
+### Tree-shaking
+
+ [`Tree-shaking`](/post/Webpack/Tree-shaking.md) 
