@@ -39,7 +39,7 @@
     * [SpringBoot](/post/Backends/SpringBoot.md)
   
 * ARTS
-  * 第一周
+  * 十周挑战
     * [第一周](/post/ARTS/week1.md)
     * [第二周](/post/ARTS/week2.md)
     * [第三周](/post/ARTS/week3.md)
