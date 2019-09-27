@@ -15,6 +15,7 @@
     * [create-react-app](/post/Frontends/React/create-react-app.md)
     * [React](/post/Frontends/React/react1.md)
     * [redux](/post/Frontends/React/redux.md)
+    * [prop-types](/post/Frontends/React/prop-types.md)
   * 小程序
     * [wepy框架](/post/Frontends/MiniProgarm/wepy.md)
     * [iview](/post/Frontends/MiniProgarm/iview-webapp.md)
