@@ -81,3 +81,12 @@ CSS 样式来源主要有三种
 1. 更新了元素的几何属性（重排）
 2. 更新元素的绘制属性（重绘）
 3. 直接合成阶段
+
+### 减少重排重绘, 方法很多
+
+1. 使用 class 操作样式，而不是频繁操作 style
+2. 避免使用 table 布局
+3. 批量dom 操作，例如 createDocumentFragment，或者使用框架，例如 React
+4. Debounce window resize 事件
+5. 对 dom 属性的读写要分离
+6. will-change: transform 做优化
