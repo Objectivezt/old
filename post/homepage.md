@@ -35,9 +35,9 @@
 > ES3-ES5规范
 
 + [call和apply](/post/Frontends/JavaScript/JavaScript中call和apply的理解.md)
-+ [跨域](/post/Frontends/JavaScript/JavaScript跨域.md)
++ [跨域](/post/Frontends/JavaScript/CrossDomain.md)
 + [oop](/post/Frontends/JavaScript/JavaScript面向对象.md)
-+ [typof和instanceof](/post/Frontends/JavaScript/JavaScript中typeof与instanceof的区别.md)
++ [typeof和instanceof](/post/Frontends/JavaScript/typeof&instanceof.md)
 
 > ES6规范
 
