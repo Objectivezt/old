@@ -10,6 +10,10 @@
 > IngressRule 的 Key，就叫做：host。它必须是一个标准的域名格式（Fully Qualified Domain Name）的字符串，而不能是 IP 地址
 > IngressRule 规则的定义，则依赖于 path 字段。这里的每一个 path 都对应一个后端 Service。
 
+## Ingress Controller
+
+> 允许通过 Pod 启动命令里的–default-backend-service 参数，设置一条默认规则
+
 ## 安装步骤
 
 1. 在集群里部署我们的应用 Pod 和它们对应的 Service
