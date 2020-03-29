@@ -5,3 +5,5 @@
 [在阿里我是如何当面试官的](https://juejin.im/post/5e6ebfa86fb9a07ca714d0ec)
 
 [npm 私有模块的 3 种方法](https://www.jianshu.com/p/a9540d9f8d9c)
+
+[如何拿到 offer 思考](https://juejin.im/post/5bbc54a2e51d450e5a7445b4)
