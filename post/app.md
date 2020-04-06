@@ -64,6 +64,8 @@
 [dvajs](https://dvajs.com/) 数据流前端框架
 [ant-design@3](https://3x.ant.design/) 基于 Ant Design 设计体系的 React UI 组件库，主要用于研发企业级中后台产品
 [umijs](https://umijs.org/) React 应用开发框架
+[prettier](https://prettier.io/) prettier 代码格式美化工具
+[stylelint](https://stylelint.io/) 可帮助您避免错误并在样式中强制执行约定
 
 ## devOps
 
