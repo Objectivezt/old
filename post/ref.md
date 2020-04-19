@@ -15,3 +15,7 @@
 [中高级前端大厂面试秘籍，为你保驾护航金三银四](https://juejin.im/post/5c64d15d6fb9a049d37f9c20)
 
 [我是如何将业务代码写优雅的](https://juejin.im/post/5cc7d540e51d456e537ef39e)
+
+[JS 数组去重复的 6 种方法](https://www.jianshu.com/p/6300a031dba5)
+
+[javascript-web-development-trends-2020](https://www.infoq.com/articles/javascript-web-development-trends-2020/)

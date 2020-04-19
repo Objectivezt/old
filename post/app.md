@@ -66,6 +66,12 @@
 [umijs](https://umijs.org/) React 应用开发框架
 [prettier](https://prettier.io/) prettier 代码格式美化工具
 [stylelint](https://stylelint.io/) 可帮助您避免错误并在样式中强制执行约定
+[webpack](https://webpack.js.org/) 前端工程化打包工具
+[html2canvas](https://html2canvas.hertzen.com/) 截图
+[d3js](https://d3js.org/)
+[echartsjs](https://www.echartsjs.com/zh/index.html)
+[babel](https://babeljs.io/) JavaScript 编译器
+[romejs](https://romejs.dev/) 实验性的 JavaScript 工具链
 
 ## devOps
 
@@ -76,3 +82,11 @@
 ## self Site
 
 [wordpress](https://zh-cn.wordpress.com/) 个人站点建设
+
+## tools
+
+[SeaTable]()
+
+## 未分类
+
+[pinpoint]()
