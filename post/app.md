@@ -72,6 +72,8 @@
 [echartsjs](https://www.echartsjs.com/zh/index.html)
 [babel](https://babeljs.io/) JavaScript 编译器
 [romejs](https://romejs.dev/) 实验性的 JavaScript 工具链
+[chameleon](https://github.com/didi/chameleon) 一套代码运行多端，一端所见即多端所见
+[lerna](https://github.com/lerna/lerna) A tool for managing JavaScript projects with multiple packages
 
 ## devOps
 
@@ -90,3 +92,8 @@
 ## 未分类
 
 [pinpoint]()
+
+## 商业软件
+
+泛微
+明鉴
