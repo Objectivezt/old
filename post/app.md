@@ -74,6 +74,7 @@
 [romejs](https://romejs.dev/) 实验性的 JavaScript 工具链
 [chameleon](https://github.com/didi/chameleon) 一套代码运行多端，一端所见即多端所见
 [lerna](https://github.com/lerna/lerna) A tool for managing JavaScript projects with multiple packages
+[Bootstrap](https://getbootstrap.com/)
 
 ## devOps
 
@@ -97,3 +98,8 @@
 
 泛微
 明鉴
+
+## npm modules
+
+[chalk](https://www.npmjs.com/package/chalk) 控制台的提示型
+[happypack](https://www.npmjs.com/package/happypack) 通过并行转换文件来加快初始 Webpack 的构建速度。

@@ -19,3 +19,7 @@
 [JS 数组去重复的 6 种方法](https://www.jianshu.com/p/6300a031dba5)
 
 [javascript-web-development-trends-2020](https://www.infoq.com/articles/javascript-web-development-trends-2020/)
+
+[roadhog 升级 webpack4](https://github.com/tsejx/blog/issues/1)
+
+[18 个 React 最佳实践技巧，助你在 520 这一天过得舒心](https://juejin.im/post/5ec4bb046fb9a047e25d5166#heading-10)
