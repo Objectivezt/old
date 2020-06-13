@@ -75,6 +75,9 @@
 [chameleon](https://github.com/didi/chameleon) 一套代码运行多端，一端所见即多端所见
 [lerna](https://github.com/lerna/lerna) A tool for managing JavaScript projects with multiple packages
 [Bootstrap](https://getbootstrap.com/)
+[react](https://reactjs.org/)
+[cli-vue](https://cli.vuejs.org/)
+[electron](http://www.electronjs.org/)
 
 ## devOps
 
