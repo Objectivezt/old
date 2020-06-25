@@ -35,6 +35,8 @@
 [7Zip]()
 [XMind8]()
 [PDFCreator]()
+[Kappa]()
+[Apache CouchDB]()
 
 ## IDE
 
@@ -84,6 +86,8 @@
 [sonarqube](https://www.sonarqube.org/) 代码静态检查
 [docker](https://www.docker.com/) 随时随地安全地构建和共享任何应用程序的工具
 [Jenkins](https://jenkins.io/zh/) 开源 CI&CD 软件领导者, 支持构建、部署、自动化， 满足任何项目的需要
+[Nexus](https://github.com/sonatype/docker-nexus3)
+[Hawkeye](https://github.com/0xbug/Hawkeye) github 代码监控
 
 ## self Site
 
@@ -106,3 +110,6 @@
 
 [chalk](https://www.npmjs.com/package/chalk) 控制台的提示型
 [happypack](https://www.npmjs.com/package/happypack) 通过并行转换文件来加快初始 Webpack 的构建速度。
+[sinopia](https://github.com/rlidwka/sinopia) 私有 npm 仓库
+[verdaccio](https://www.npmjs.com/package/verdaccio) sinpia 长期维护版本
+[nrm](https://www.npmjs.com/package/nrm)npm 仓库切换器

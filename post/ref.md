@@ -23,3 +23,9 @@
 [roadhog 升级 webpack4](https://github.com/tsejx/blog/issues/1)
 
 [18 个 React 最佳实践技巧，助你在 520 这一天过得舒心](https://juejin.im/post/5ec4bb046fb9a047e25d5166#heading-10)
+
+[verdaccio 方案及其最佳实践](https://www.jianshu.com/p/d32ce7e9d4d8)
+
+[sinopia](https://www.jianshu.com/p/3e8446373ab0?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation)
+
+[ebpack 自动识别 css modules(cssModule 混用)](https://www.cnblogs.com/hl1223/p/13073628.html)
