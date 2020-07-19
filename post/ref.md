@@ -28,4 +28,10 @@
 
 [sinopia](https://www.jianshu.com/p/3e8446373ab0?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation)
 
-[ebpack 自动识别 css modules(cssModule 混用)](https://www.cnblogs.com/hl1223/p/13073628.html)
+[webpack 自动识别 css modules(cssModule 混用)](https://www.cnblogs.com/hl1223/p/13073628.html)
+
+[前端代码质量-圈复杂度原理和实践](https://www.cnblogs.com/cangqinglang/p/11683245.html)
+
+[前端常见数据结构与算法](https://www.jianshu.com/p/f89caca939d1)
+
+[if 我是前端团队 Leader，怎么制定前端协作规范?](https://juejin.im/post/5d3a7134f265da1b5d57f1ed#heading-17)

@@ -101,8 +101,24 @@
 
 [pinpoint]()
 
+## 团队协助
+
+[tower](https://tower.im/)
+[teambition](https://www.teambition.com/)
+[trello](https://trello.com/)
+[github issue]
+[gitlab issue]
+
+## CI/CD
+
+[Travis CI]()
+[Circle CI]()
+[Jenkins]()
+
+
 ## 商业软件
 
+[宝塔](https://www.bt.cn/)
 泛微
 明鉴
 
@@ -113,3 +129,5 @@
 [sinopia](https://github.com/rlidwka/sinopia) 私有 npm 仓库
 [verdaccio](https://www.npmjs.com/package/verdaccio) sinpia 长期维护版本
 [nrm](https://www.npmjs.com/package/nrm)npm 仓库切换器
+[dotenv](https://www.npmjs.com/package/dotenv) 获取.env 文件中的参数
+[semver](https://www.npmjs.com/package/semver) Semantic Version（语义化版本）
