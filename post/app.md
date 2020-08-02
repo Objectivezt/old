@@ -1,5 +1,8 @@
 # 网站软件
 
+> `*` 标示特殊网络
+
+
 ## 一些社区
 
 [豆瓣](https://www.douban.com/)
@@ -80,6 +83,9 @@
 [react](https://reactjs.org/)
 [cli-vue](https://cli.vuejs.org/)
 [electron](http://www.electronjs.org/)
+[antv](https://antv.gitee.io/zh)
+[vditor](https://vditor.b3log.org/) 易于使用的 Markdown 编辑器，为适配不同的应用场景而生
+[chartcube](https://chartcube.alipay.com/)
 
 ## devOps
 
@@ -100,6 +106,8 @@
 ## 未分类
 
 [pinpoint]()
+[mkdocs](https://www.mkdocs.org/) :*
+[淘宝开放平台](https://open.taobao.com/docs/doc_index.htm?spm=a219a.7386781.1.21.03gLE0)
 
 ## 团队协助
 
@@ -109,18 +117,20 @@
 [github issue]
 [gitlab issue]
 
+
 ## CI/CD
 
 [Travis CI]()
 [Circle CI]()
 [Jenkins]()
 
-
 ## 商业软件
 
 [宝塔](https://www.bt.cn/)
-泛微
+[泛微](https://www.weaver.com.cn/e9/?source=31&kw=baidupinzhuan)
 明鉴
+[baklib](https://www.baklib.com/)
+[天翎teemlink](http://www.teemlink.com/) 
 
 ## npm modules
 

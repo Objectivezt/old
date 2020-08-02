@@ -35,3 +35,5 @@
 [前端常见数据结构与算法](https://www.jianshu.com/p/f89caca939d1)
 
 [if 我是前端团队 Leader，怎么制定前端协作规范?](https://juejin.im/post/5d3a7134f265da1b5d57f1ed#heading-17)
+
+[持续集成之代码质量管理-Sonar](https://blog.csdn.net/abcdocker/article/details/53840582)
