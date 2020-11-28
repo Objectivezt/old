@@ -35,3 +35,11 @@
 [前端常见数据结构与算法](https://www.jianshu.com/p/f89caca939d1)
 
 [if 我是前端团队 Leader，怎么制定前端协作规范?](https://juejin.im/post/5d3a7134f265da1b5d57f1ed#heading-17)
+
+[大学四年因为知道了这32个网站，我成了别人眼中的大神](https://blog.csdn.net/sinat_33921105/article/details/103899234)
+
+[22 个好用的 CLI 工具](https://www.infoq.cn/404)
+
+[语义化版本 2.0.0](https://semver.org/lang/zh-CN/)
+
+[编写React组件时常见的5个错误](https://www.infoq.cn/article/ZTLzd1LFkB0lMh5mVXyy?utm_source=related_read_bottom&utm_medium=article)

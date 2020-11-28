@@ -1,5 +1,7 @@
 # 网站软件
 
+> `*` 标示特殊网络
+
 ## 一些社区
 
 [豆瓣](https://www.douban.com/)
@@ -80,6 +82,9 @@
 [react](https://reactjs.org/)
 [cli-vue](https://cli.vuejs.org/)
 [electron](http://www.electronjs.org/)
+[antv](https://antv.gitee.io/zh)
+[vditor](https://vditor.b3log.org/) 易于使用的 Markdown 编辑器，为适配不同的应用场景而生
+[chartcube](https://chartcube.alipay.com/)
 
 ## devOps
 
@@ -100,6 +105,8 @@
 ## 未分类
 
 [pinpoint]()
+[mkdocs](https://www.mkdocs.org/) :*
+[淘宝开放平台](https://open.taobao.com/docs/doc_index.htm?spm=a219a.7386781.1.21.03gLE0)
 
 ## 团队协助
 
@@ -115,12 +122,13 @@
 [Circle CI]()
 [Jenkins]()
 
-
 ## 商业软件
 
 [宝塔](https://www.bt.cn/)
-泛微
+[泛微](https://www.weaver.com.cn/e9/?source=31&kw=baidupinzhuan)
 明鉴
+[baklib](https://www.baklib.com/)
+[天翎teemlink](http://www.teemlink.com/)
 
 ## npm modules
 
@@ -131,3 +139,33 @@
 [nrm](https://www.npmjs.com/package/nrm)npm 仓库切换器
 [dotenv](https://www.npmjs.com/package/dotenv) 获取.env 文件中的参数
 [semver](https://www.npmjs.com/package/semver) Semantic Version（语义化版本）
+[ngrok](https://ngrok.com/product) ngrok 内网穿透，映射本地开发环境到公网，模拟多终端线上环境
+[path-to-regexp](https://www.npmjs.com/package/path-to-regexp) 处理url的地址和参数
+
+### temp
+
+一 图片
+1 pixabay：https://pixabay.com/zh/
+2 Unsplash：https://unsplash.com/
+3 Pexels：https://www.pexels.com/zh-cn/
+4 Foodiesfeed ：https://www.foodiesfeed.com
+5 CC零图片网：https://cc0.cn/
+6 Logo神器：https://www.logosc.cn/so/
+7 iconfont：https://www.iconfont.cn/
+ 
+二 视频
+1 Videezy ：https://www.videezy.com/
+2 Videovo：https://www.videvo.net/
+3 mixkit：https://mixkit.co/
+4 distill：https://wedistill.io/
+ 
+三 音频
+1 audionautix ：https://audionautix.com/
+2 Freepd：https://freepd.com/
+3 Freesound：https://freesound.org/
+4 耳聆网：https://www.ear0.com/
+5 淘声网：https://www.tosound.com/
+ 
+四 字体
+1 字由：https://www.hellofont.cn/
+2 100font：https://www.100font.com/

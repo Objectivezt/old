@@ -3,7 +3,7 @@
 每周完成一个ARTS： 每周至少做一个 leetcode 的算法题、阅读并点评至少一篇英文技术文章、学习至少一个技术技巧、分享一篇有观点和思考的技术文章。（也就是 Algorithm、Review、Tip、Share 简称ARTS）
 
 ## Algorithm
-  
+
 [合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/comments/)
 
 ```javascript
@@ -116,3 +116,5 @@ export default {
 [花瓣](https://huaban.com/search)
 
 >一个对于前端和设计师提升，艺术灵感和美感的网站
+>
+>
