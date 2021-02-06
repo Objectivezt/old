@@ -51,3 +51,5 @@
 [一名【合格】前端工程师的自检清单](https://segmentfault.com/a/1190000018992363)
 
 [好的前端主管是如何带团队](https://www.zhihu.com/question/30093712)
+
+[持续集成之代码质量管理-Sonar](https://blog.csdn.net/abcdocker/article/details/53840582)
