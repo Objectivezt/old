@@ -43,3 +43,11 @@
 [语义化版本 2.0.0](https://semver.org/lang/zh-CN/)
 
 [编写React组件时常见的5个错误](https://www.infoq.cn/article/ZTLzd1LFkB0lMh5mVXyy?utm_source=related_read_bottom&utm_medium=article)
+
+[npm依赖中容易被忽略的细节](https://blog.csdn.net/weixin_39843414/article/details/108557510)
+
+[前端优化-如何计算白屏和首屏时间](https://www.cnblogs.com/longm/p/7382163.html)
+
+[一名【合格】前端工程师的自检清单](https://segmentfault.com/a/1190000018992363)
+
+[好的前端主管是如何带团队](https://www.zhihu.com/question/30093712)
